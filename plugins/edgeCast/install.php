@@ -1,6 +1,6 @@
 <?php
 
-function edgeCast_settings($data,$db)
+function edgeCast_settings()
 {
 	return array(
 		'isCDN' => 1
